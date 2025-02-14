@@ -33,3 +33,17 @@ Unstopped containers: 0
 Unremoved images: 0
 ```
 ![](./assets/deepseek_result1.png)
+
+```
+Total instances: 500
+Instances submitted: 496
+Instances completed: 29
+Instances incomplete: 4
+Instances resolved: 10
+Instances unresolved: 19
+Instances with empty patches: 441
+Instances with errors: 26
+Unstopped containers: 0
+Unremoved images: 0
+```
+![](./assets/deepseek_result2.png)
