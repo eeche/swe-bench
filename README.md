@@ -20,4 +20,16 @@ CodeT5 is fine-tuned to analyze and modify code with a strong focus on bug fixin
 
 ## ✅ Result
 ### DeepSeek-R1-Distill-Qwen-7B Result
+```
+Total instances: 500
+Instances submitted: 498
+Instances completed: 15
+Instances incomplete: 2
+Instances resolved: 8
+Instances unresolved: 7
+Instances with empty patches: 471
+Instances with errors: 12
+Unstopped containers: 0
+Unremoved images: 0
+```
 ![](./assets/deepseek_result1.png)
